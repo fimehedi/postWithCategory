@@ -25,7 +25,7 @@ SECRET_KEY = 'h*0iu*az50)2*zfi+ygregrw++v0#o=jo5qv71(@&vg!o)(e_o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://rocky-oasis-56040.herokuapp.com/']
 
 
 # Application definition
